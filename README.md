@@ -2,4 +2,4 @@
 a project making in newcatroid by xmved.
 
 
-test https://downgit.github.io/#/home?url=https://github.com/xmved/Tanki/blob/main/content/Prem.png
+https://raw.githubusercontent.com/xmved/Tanki/refs/heads/main/content/Prem.png
