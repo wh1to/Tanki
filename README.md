@@ -1,1 +1,2 @@
-# *~~___Tanki___~~*
+# Tanki
+a project making in newcatroid by xmved.
