@@ -3,4 +3,4 @@
 ## template link
 *https://xmved.github.io/git-cloud-storage/*
 
-https://xmved.github.io/git-cloud-storage/web/store/Prem.png
+https://xmved.github.io/git-cloud-storage/Prem.png
